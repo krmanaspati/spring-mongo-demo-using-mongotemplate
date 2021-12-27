@@ -8,6 +8,7 @@ class SpringMongoDbMongotemplateApplicationTests {
 
 	@Test
 	void contextLoads() {
+		//testcheck
 	}
 
 }
