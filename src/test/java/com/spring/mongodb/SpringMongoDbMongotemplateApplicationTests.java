@@ -9,6 +9,7 @@ class SpringMongoDbMongotemplateApplicationTests {
 	@Test
 	void contextLoads() {
 		//testcheck
+		System.out.println("hello");
 	}
 
 }
