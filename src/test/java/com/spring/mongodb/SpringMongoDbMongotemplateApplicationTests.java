@@ -10,7 +10,7 @@ class SpringMongoDbMongotemplateApplicationTests {
 	void contextLoads() {
 		//testcheck
 		System.out.println("hello");
-		//test one
+		//test one add
 	}
 
 }
